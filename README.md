@@ -1,6 +1,6 @@
-# [Your Name]'s Cybersecurity Portfolio
+# [Kevin Padilla Ortiz]'s Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! I’m [Your Name], a cybersecurity enthusiast currently exploring the world of digital security. This portfolio documents my learning journey, projects, and the skills I’m developing as I work toward a career in cybersecurity.
+Welcome to my cybersecurity portfolio! I’m [Kevin Padilla Ortiz], a cybersecurity enthusiast currently exploring the world of digital security. This portfolio documents my learning journey, projects, and the skills I’m developing as I work toward a career in cybersecurity.
 
 ---
 
@@ -43,7 +43,8 @@ Even as a beginner, small projects can showcase your initiative and growth. Here
 
 ## Certifications & Learning
 
-- **CompTIA Security+** (In Progress)
+- **Google Cybersecurity Professional Certificate** (In Progress)
+- **CompTIA Security+** 
 - **CEH (Certified Ethical Hacker)** (Planned)
 - Courses & Workshops:
   - Introduction to Cybersecurity (Online Course)
@@ -62,11 +63,10 @@ I also document what I learn through blog posts and research articles. Here are 
 ## Contact
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about cybersecurity:
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [kpadilla18@hotmail.com]
 
 ---
 
 *This portfolio is a work in progress, and I’ll continue updating it with new projects, insights, and certifications as I grow in my cybersecurity journey.*
-# Test
+# 
 Portfolio
